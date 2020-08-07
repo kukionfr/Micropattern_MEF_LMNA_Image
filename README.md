@@ -8,3 +8,4 @@ MEF cells are seeded on Circle and Triangle micropattern coated with Fibronectin
 Exact method of micropatterning is described in this paper: 
 Hale, Christopher M., et al. "SMRT analysis of MTOC and nuclear positioning reveals the role of EB1 and LIC1 in single-cell polarization." Journal of cell science 124.24 (2011): 4267-4285.
 
+MEF cells with(++) and without(--) Lamin A knockout are stained with DAPI and Phallodin. Image filename with "c1" tag is phallodin channel, and "c2" tag is DAPI channel.
