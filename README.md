@@ -1,5 +1,7 @@
 # Fluorescence image of Mouse Embryonic Fibroblast(MEF)
 
+Dataset Size: 2.37GB (Download time ~12min @ 100Mbps)
+
 These images are for Nature Protocol paper (2020): 
 *A robust unsupervised machine learning method to quantify the morphological heterogeneity of cells and nuclei* 
 
